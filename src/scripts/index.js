@@ -7,17 +7,17 @@ const bookmarks = [
     items: {
       "r/startpages": "https://www.reddit.com/r/startpages",
       "r/unixporn": "https://www.reddit.com/r/unixporn",
-      "r/webdev": "https://www.reddit.com/r/webdev",
+      "r/opencode": "https://www.reddit.com/r/opencode",
       "r/coolgithubprojects ": "https://www.reddit.com/r/coolgithubprojects ",
     },
   },
   {
     label: "tools",
     items: {
-      "img > compress": "https://compressimage.io/",
-      "img > upscale": "https://bigjpg.com/",
-      "css > shadows": "https://www.joshwcomeau.com/shadow-palette/",
-      "js > bundlephobia": "https://bundlephobia.com/",
+      "json > format": "https://devtoysweb.web.app/formatters/json",
+      "json > diff": "https://jsondiff.com/",
+      "json > js": "https://devtoollab.com/tools/json-to-js-object",
+      "js > json": "https://devtoollab.com/tools/js-object-to-json",
     },
   },
   {
@@ -28,9 +28,8 @@ const bookmarks = [
     },
   },
   {
-    label: "ressources",
+    label: "resources",
     items: {
-      "react > bulletproof": "https://github.com/alan2207/bulletproof-react",
       "js > patterns": "https://www.patterns.dev/#patterns",
     },
   },
